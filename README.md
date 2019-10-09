@@ -19,7 +19,8 @@ To run this project the following softwares are required
 * Import the project into eclipse as an existing maven project
 * Startup Xammp server and create a database called productcatalog-db
 * Import the sql file found in folder productcatalog-db to the database just created
-* Ensure that your default user name is root and password null(no password)
+* Ensure that your default user name is root and password null(no password) or 
+ you could update this information in the connection class
 * Run as a maven project from eclipse
 
 ### Project Flow
